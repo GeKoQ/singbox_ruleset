@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ccb.cn",
+        "ccb.com",
+        "ccbintl.com.hk",
+        "ccbfutures.com",
+        "ccbhome.net",
+        "ccbleasing.com",
+        "ccbtrust.com.cn",
+        "ccb-life.com.cn",
+        "ccbhome.cn",
+        "ccbfund.com.cn",
+        "ccb.com.cn",
+        "ccbseoul.com",
+        "ccbfutures.cn",
+        "ccbxt.com",
+        "ccbcos.com",
+        "ccbfund.com",
+        "ccbfund.cn",
+        "ccblife-test.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
