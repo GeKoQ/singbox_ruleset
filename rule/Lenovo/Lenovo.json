@@ -1,0 +1,41 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "juhuiwan.com.cn",
+        "lenovo.com",
+        "zui.cn",
+        "juhuiwan.net",
+        "zuk.com.cn",
+        "idea123.cn",
+        "lenovo.com.cn",
+        "lenovogame.com",
+        "cftsupport.com",
+        "fm365.com",
+        "lenauth.com",
+        "lenovovip.com.cn",
+        "zuk.cn",
+        "lenovocloudos.com",
+        "lenovoeservice.com",
+        "lx.pub",
+        "zui.com",
+        "lx.run",
+        "lxzjjt.cn",
+        "lenovomm.com",
+        "lxzjjt.com",
+        "ileapcloud.com",
+        "lenovomm.cn",
+        "blurdev.com",
+        "thinkpad.com",
+        "zhiliaowenda.com.cn",
+        "surepush.cn",
+        "juhuiwan.com",
+        "lenovo.cn",
+        "zuk.com",
+        "thinkcloudlab.com",
+        "jhwan.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

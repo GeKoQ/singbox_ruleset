@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "faronicswise.co.uk",
+        "faronics.com.sg",
+        "faronicslabs.com",
+        "faronics.co.uk",
+        "faronics.ca",
+        "faronics.eu",
+        "deepfreeze.com.br",
+        "deepfreeze.com",
+        "deepfreeze.tech",
+        "faronics.com",
+        "deepfreeze.net",
+        "faronics.com.au",
+        "clickedu.co.uk",
+        "deepfreeze.co.uk",
+        "faronics.kayako.com",
+        "faronics.tech",
+        "deepfreeze.eu",
+        "faronicswise.com"
+      ]
+    }
+  ],
+  "version": 2
+}
